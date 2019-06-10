@@ -1,0 +1,5 @@
+
+.DS_Store
+*.jpg
+*.db
+.ipynb_checkpoints/LSB-checkpoint.ipynb
