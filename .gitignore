@@ -8,3 +8,5 @@
 data/tiny-imagenet-200.zip
 models.zip
 .ipynb_checkpoints/Steg-NN-multi-checkpoint.ipynb
+*.png
+.ipynb_checkpoints/Resize-test-img-checkpoint.ipynb
