@@ -10,3 +10,5 @@ models.zip
 .ipynb_checkpoints/Steg-NN-multi-checkpoint.ipynb
 *.png
 .ipynb_checkpoints/Resize-test-img-checkpoint.ipynb
+__pycache__/LSB.cpython-36.pyc
+__pycache__/evaluation.cpython-36.pyc
