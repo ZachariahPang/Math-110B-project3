@@ -4,7 +4,6 @@
 *.db
 .ipynb_checkpoints/LSB-checkpoint.ipynb
 *.JPEG
-*.txt
 data/tiny-imagenet-200.zip
 models.zip
 .ipynb_checkpoints/Steg-NN-multi-checkpoint.ipynb
@@ -20,3 +19,4 @@ __pycache__/evaluation.cpython-36.pyc
 __pycache__/CNN.cpython-36.pyc
 .ipynb_checkpoints/Steg-NN-Two-Secret-Image-10layers-checkpoint.ipynb
 .ipynb_checkpoints/Steg-NN-Two-Secret-Image-10layers-best-checkpoint.ipynb
+data/tiny-imagenet-200/wnids.txt
