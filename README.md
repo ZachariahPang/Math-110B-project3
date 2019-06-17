@@ -1,6 +1,6 @@
 # Math 110B project 3 
 
-Member: Ziteng 
+Member: Ziteng Pang
 
 Assignment page:
 https://colab.research.google.com/drive/1aPH1a7i381R9buEiw2XrJm3ysh9VXebD#scrollTo=aK13JIAnm8dg
