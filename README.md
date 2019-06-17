@@ -10,7 +10,7 @@ https://www.kaggle.com/gaz3ll3/optimization-ii-project-3
 
 ---
 
-note:`Steg-NN-Two-Secret-Image-Past-Due.ipynb` was unploaded after the due date. It has the best performance using a even deeper network.
+Note:`Steg-NN-Two-Secret-Image-Past-Due.ipynb` was unploaded after the due date. It has the best performance using a even deeper network.
 
 ---
 
