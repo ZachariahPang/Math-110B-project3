@@ -20,3 +20,5 @@ __pycache__/CNN.cpython-36.pyc
 .ipynb_checkpoints/Steg-NN-Two-Secret-Image-10layers-checkpoint.ipynb
 .ipynb_checkpoints/Steg-NN-Two-Secret-Image-10layers-best-checkpoint.ipynb
 data/tiny-imagenet-200/wnids.txt
+data/tiny-imagenet-200/train/n01443537/n01443537_boxes.txt
+*.txt
