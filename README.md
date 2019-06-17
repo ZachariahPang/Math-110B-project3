@@ -7,9 +7,11 @@ https://colab.research.google.com/drive/1aPH1a7i381R9buEiw2XrJm3ysh9VXebD#scroll
 
 Dataset page:
 https://www.kaggle.com/gaz3ll3/optimization-ii-project-3
+
 ---
 
 note:`Steg-NN-Two-Secret-Image-Past-Due.ipynb` was unploaded after the due date. It has the best performance using a even deeper network.
+
 ---
 
 |----misc: some miscellaneous files used during the development
