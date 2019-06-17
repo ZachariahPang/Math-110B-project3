@@ -22,3 +22,4 @@ __pycache__/CNN.cpython-36.pyc
 data/tiny-imagenet-200/wnids.txt
 data/tiny-imagenet-200/train/n01443537/n01443537_boxes.txt
 *.txt
+.ipynb_checkpoints/Steg-NN-Two-Secret-Image-Past-Due-checkpoint.ipynb
