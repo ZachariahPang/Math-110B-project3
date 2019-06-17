@@ -8,16 +8,16 @@ https://colab.research.google.com/drive/1aPH1a7i381R9buEiw2XrJm3ysh9VXebD#scroll
 Dataset page:
 https://www.kaggle.com/gaz3ll3/optimization-ii-project-3
 
-----------------
+---
 
---misc: some miscellaneous files used during the development
+|----misc: some miscellaneous files used during the development
 
---models: saved weights for the neural network
+|----models: saved weights for the neural network
 
---Resize-test-img.ipynb: downsize the tesing images to match the training images
+|----Resize-test-img.ipynb: downsize the tesing images to match the training images
 
---Steg-LSB: LSB implementation
+|----Steg-LSB: LSB implementation
 
---Steg-NN-Single-Secret-Image.ipynb: Neural network implementations for a single secret image
+|----Steg-NN-Single-Secret-Image.ipynb: Neural network implementations for a single secret image
 
---Steg-NN-Single-Secret-Image.ipynb: Neural network implementations for two secret images 
+|----Steg-NN-Single-Secret-Image.ipynb: Neural network implementations for two secret images 
